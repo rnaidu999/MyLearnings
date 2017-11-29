@@ -1,0 +1,8 @@
+#print ("Hello World.")
+# print ("I like tying this.")
+# print ("This is fun.")
+# print ('Hello Again.')
+print ('Yay! painting.')
+print ("I'd much rather you 'not.")
+print ("4I 'said' not touch this.")
+print ("I Love my daughter, her name is Dhanvi Naidu")
